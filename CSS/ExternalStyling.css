@@ -1,0 +1,70 @@
+ 
+/*.external
+{
+	border: 10px dashed green;
+	font-family: monospace;
+	background-color: pink;
+}*/
+
+
+
+
+ /*#external
+{
+	border: 10px dashed green;
+	font-family: monospace;
+}
+*/
+
+/*p
+{
+	font-family:cursive;	
+}
+h1
+{
+	font-family: cursive;
+	background-color: pink;
+}
+
+
+*{
+	font-family: arial;
+	background-color: skyblue;
+
+}
+
+
+input[type="text"]{
+	color: skyblue;
+}
+input[type="number"]{
+	color: pink;
+}
+input[type="email"]{
+	color: green;
+}
+input[type="password"]{
+	color: cyan;
+}
+a[href]{
+	background-color: skyblue;
+}
+img[src]{
+	background-color: gray;
+}*/
+
+a:hover
+{
+	 color: seagreen;
+	 height: 50px;
+	 width: 50px;
+}
+a:link{
+		color: red;
+}
+a:visited{
+			color: darkpink;
+}
+a:active{
+			color: darkblue;
+}

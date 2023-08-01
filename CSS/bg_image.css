@@ -1,0 +1,16 @@
+/*body{
+	background-image: url(varshinee.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+*/
+
+div{
+	height: 500px;
+	width: 500px;
+	border: 5px solid skyblue;
+	background-image: url('varshinee.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: cursive;
+}

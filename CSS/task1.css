@@ -1,0 +1,9 @@
+div{
+	height: 300px;
+	width: 600px;
+	background-clip: padding-box;
+	border: 20px dotted red;
+	text-align: center;
+	background-color: pink;
+	border-color: red;
+}

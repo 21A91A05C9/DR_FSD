@@ -1,0 +1,13 @@
+h1{
+	/*border-style: double;
+	border-width: 5px;
+	border-color: skyblue pink green cyan;
+	background-color: orange;*/
+	/*border-top-style: dashed;
+	border-right-style: dotted;
+	border-bottom-style: inset;
+	border-left-style: ridge;*/
+	border-radius: 15px;
+	/*short hand property*/
+	border: 10px solid skyblue;	
+}

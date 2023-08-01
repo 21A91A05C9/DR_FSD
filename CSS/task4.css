@@ -1,0 +1,11 @@
+div{
+	height: 100px;
+	width: 400px;
+	color: white;
+	background-color: rgb(215, 92, 5);
+	border: 150px solid transparent;
+	padding: 10px 5px;
+	border-image-source: url('blade_css.jpeg');
+	border-image-repeat: stretch;
+	border-image-slice:50;
+}
