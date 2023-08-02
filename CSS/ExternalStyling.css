@@ -53,17 +53,17 @@ img[src]{
 	background-color: gray;
 }*/
 
-a:hover
-{
-	 color: seagreen;
-	 height: 50px;
-	 width: 50px;
-}
 a:link{
 		color: red;
 }
 a:visited{
 			color: darkpink;
+}
+div:hover
+{
+	 color: seagreen;
+	 height: 50px;
+	 width: 50px;
 }
 a:active{
 			color: darkblue;
